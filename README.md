@@ -1,7 +1,8 @@
-#📘 Best Python Books
+# 📘 Best Python Books
 It is a list of python books which I have read or heard about it from industry experts.
 
 ## 🔹 Python Books for Beginners
+
 
 | Title                                 | Author       | Affiliate Link                                     |
 | ------------------------------------- | ------------ | -------------------------------------------------- |
@@ -10,12 +11,14 @@ It is a list of python books which I have read or heard about it from industry e
 
 ## 🔹 Python Books for Intermediate / Advanced
 
+
 | Book             | Author          | Link                                               |
 | ---------------- | --------------- | -------------------------------------------------- |
 | Fluent Python    | Luciano Ramalho | [Check it out on Amazon](https://amzn.to/4pW5xXT) |
 | Effective Python | Brett Slatkin   | [Check it out on Amazon](https://amzn.to/4pJmmVQ) |
 
 ## 🔹 Python Books for Data Analysis
+
 
 | Book                                     | Author                                  | Link                                               |
 | ---------------------------------------- | --------------------------------------- | -------------------------------------------------- |
@@ -24,11 +27,13 @@ It is a list of python books which I have read or heard about it from industry e
 
 ## 🔹 Python Books for Machine Learning
 
+
 | Book                                                            | Author         | Link                                               |
 | --------------------------------------------------------------- | -------------- | -------------------------------------------------- |
 | Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow | Aurélien Géron | [Check it out on Amazon](https://amzn.to/3KECBEy) |
 
 ## 🔹 Python Books for PyTorch
+
 
 | Book                                           | Author                                    | Link                                               |
 | ---------------------------------------------- | ----------------------------------------- | -------------------------------------------------- |
@@ -38,6 +43,7 @@ It is a list of python books which I have read or heard about it from industry e
 
 ## 🔹  Maths & Statistics books for ML
 
+
 | Book                                     | Author                                         | Link                                               |
 | ---------------------------------------- | ---------------------------------------------- | -------------------------------------------------- |
 | Deep Learning                            | Ian Goodfellow, Yoshua Bengio, Aaron Courville | [Check it out on Amazon](https://amzn.to/49Z7wG1) |
@@ -45,6 +51,7 @@ It is a list of python books which I have read or heard about it from industry e
 | Mathematics for Machine Learning         | Deisenroth, Faisal, Ong                        | [Check it out on Amazon](https://amzn.to/4iAWhFW) |
 
 ## 🔹 LLM books
+
 
 | Book                                      | Author                                         | Link                                               |
 | ----------------------------------------- | ---------------------------------------------- | -------------------------------------------------- |
@@ -55,6 +62,7 @@ It is a list of python books which I have read or heard about it from industry e
 | LLM Security Playbook                     | Steve Wilson                                   | [Check it out on Amazon](https://amzn.to/3XzEDZN) |
 
 ## 🔹 AI Agents
+
 
 | Book                | Author         | Link                                               |
 | ------------------- | -------------- | -------------------------------------------------- |
