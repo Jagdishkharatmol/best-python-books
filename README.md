@@ -4,7 +4,7 @@ It is a list of python books which I have read or heard about it from industry e
 ## 🔹 Python Books for Beginners
 
 
-| Title                                 | Author       | Affiliate Link                                     |
+| Title                                 | Author       | Link                                     |
 | ------------------------------------- | ------------ | -------------------------------------------------- |
 | Python Crash Course (3rd Edition)     | Eric Matthes |  [Check it out on Amazon](https://amzn.to/4oATG0g) |
 | Automate the Boring Stuff with Python | Al Sweigart  | [Check it out on Amazon](https://amzn.to/3KquH1J) |
