@@ -68,5 +68,5 @@ It is a list of python books which I have read or heard about it from industry e
 | ------------------- | -------------- | -------------------------------------------------- |
 | AI Agents in Action | Michael Lanham | [Check it out on Amazon](https://amzn.to/4pPohrV) |
 
-
+Reference : [https://pythoncodelab.com/best-python-book-recommendations/](https://pythoncodelab.com/best-python-book-recommendations/) 
 *As an Amazon Associate I earn from qualifying purchases. This means that when you buy through my links, I may earn a commission.*
